@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Avantika-Enterprises/static/css/main.dc4d6ff2.css",
-    "main.js": "/Avantika-Enterprises/static/js/main.d8556cb9.js",
+    "main.js": "/Avantika-Enterprises/static/js/main.b896633a.js",
     "static/js/787.e40e9798.chunk.js": "/Avantika-Enterprises/static/js/787.e40e9798.chunk.js",
     "index.html": "/Avantika-Enterprises/index.html",
     "main.dc4d6ff2.css.map": "/Avantika-Enterprises/static/css/main.dc4d6ff2.css.map",
-    "main.d8556cb9.js.map": "/Avantika-Enterprises/static/js/main.d8556cb9.js.map",
+    "main.b896633a.js.map": "/Avantika-Enterprises/static/js/main.b896633a.js.map",
     "787.e40e9798.chunk.js.map": "/Avantika-Enterprises/static/js/787.e40e9798.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.d8556cb9.js"
+    "static/js/main.b896633a.js"
   ]
 }
