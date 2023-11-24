@@ -1,12 +1,13 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 import './App.css';
-
-
+import NavBar from './components/NavBar';
+import BrandExample from './components/BrandExample';
 
 function App() {
   return (
     <>
-      <h1>Avantika Enterprises</h1>
+      <NavBar />
+      <BrandExample />
     </>
   );
 }
